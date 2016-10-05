@@ -9,3 +9,14 @@ Add CSS rules so that:
 (a) Your favorite item from the list has a background-color of ivory 
     (highlighting that you like it!). You may need to modify the HTML for this.
 */
+body {
+  font-family: 'Heveltica';
+}
+
+dt {
+  font-weight: 700;
+}
+
+.pup {
+  background-color: ivory;
+}
